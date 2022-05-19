@@ -5,9 +5,9 @@
 
 html,
 body {
-  @apply h-full;
+	@apply h-full;
 }
 
 #svelte-root {
-  @apply h-full p-5;
+	@apply h-full p-5;
 }
