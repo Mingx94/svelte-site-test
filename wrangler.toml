@@ -1,0 +1,10 @@
+name = "test"
+main = "./main.js"
+compatibility_date = "2022-06-19"
+
+[build]
+# Assume it's already been built. You can make this "npm run build" to ensure a build before publishing
+command = ""
+
+[site]
+bucket = "./.cloudflare/assets"
